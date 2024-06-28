@@ -1,0 +1,8 @@
+//  ignore all .o file
+*.o
+// ignore all .sh file
+*.sh
+// git to ignore files named allocate
+allocate
+// ignore .vscode file
+.vscode/
